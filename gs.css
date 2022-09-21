@@ -29,21 +29,41 @@
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
+.calynx:hover
+{
+   box-shadow: 10px 10px 5px;
+   border: 1px solid rgb(175, 32, 32);
+}
 .Salata{
     color: darkorchid;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
+}
+.Salata:hover
+{
+   box-shadow: 10px 10px 5px;
+   border: 1px solid rgb(133, 58, 202)
 }
 .Melene{
     color: lightcoral;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
+.Melene:hover
+{
+   box-shadow: 10px 10px 5px;
+   border: 1px solid rgb(49, 183, 49)
+}
 .Tarara
 {
     color: darkolivegreen;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
+}
+.Tarara:hover
+{
+   box-shadow: 10px 10px 5px;
+   border: 1px solid rgb(223, 40, 71)
 }
 .tables
 {
@@ -59,6 +79,6 @@
 }
 tr:nth-child(even) 
 {
-    background-color: cornsilk;
-    
+    background-color: lightgrey;
+
 }
